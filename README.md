@@ -1,12 +1,9 @@
 
----
- Sorting Algorithm Visualization with Merge Sort
+# Sorting Algorithm Visualization with Merge Sort
 
-This Python project utilizes the Pygame library to visualize the [Merge Sort algorithm](https://en.wikipedia.org/wiki/Merge_sort) by creating an interactive window displaying the sorting process.
+This Python project utilizes the Pygame library to visualize the [Merge Sort algorithm](https://en.wikipedia.org/wiki/Merge_sort) by creating an interactive window displaying the sorting proces
 
-Getting Started
-
-Prerequisites
+## Prerequisites
 
 To run this project, you'll need:
 
@@ -17,7 +14,7 @@ To run this project, you'll need:
   pip install pygame
   ```
 
-Running the Project
+## Running the Project
 
 1. Clone or download this repository to your local machine.
 2. Navigate to the project directory.
@@ -26,7 +23,7 @@ Running the Project
    ```bash
    python AlgorithmSort.py
    ```
- Usage
+## Usage
 
 - Press 'R' to generate a new random array for sorting.
 - Press 'Enter' to start the visualization of the Merge Sort algorithm.
@@ -35,15 +32,11 @@ Features
 - Visualization of the Merge Sort algorithm using bars representing array elements.
 - Interactive interface using Pygame for displaying the sorting process.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or feature ideas, feel free to submit a pull request.
 
-License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Acknowledgments
+## Acknowledgments
 
 - The visualization logic is inspired by various sorting algorithm visualizations available online.
 
