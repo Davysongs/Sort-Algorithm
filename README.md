@@ -24,7 +24,7 @@ Running the Project
 3. Run the Python script:
 
    ```bash
-   python merge_sort_visualizer.py
+   python AlgorithmSort.py
    ```
  Usage
 
