@@ -1,4 +1,3 @@
-Sure, here's a basic README file template for a project that visualizes the merge sort algorithm using Pygame:
 
 ---
  Sorting Algorithm Visualization with Merge Sort
